@@ -24,7 +24,8 @@ Los mayores ingresos separados por país de origen a pesar de la popularidad en 
 
 Empecé a separar las vendar por mes:
 
-![image](https://github.com/user-attachments/assets/fb07079c-44c6-439d-b53f-4a5fe55828f5)
+![Captura de pantalla (50)](https://github.com/user-attachments/assets/cc682a55-9aeb-4a06-a048-e674209413ee)
+
 
 Para ver como se comportaba el menú a grandes rasgos, teniendo ventas superiores a los 50 mil dólares mensuales.
 
