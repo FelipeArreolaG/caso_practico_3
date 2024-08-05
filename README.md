@@ -44,4 +44,4 @@ Además de la gestión a grandes rasgos, por último lo dividí ahora en horas:
 
 Me gusta esta tabla porque se puede administrar al personal de manera estratégica para tener sus horarios de ingreso y descansos según la afluencia de clientes.
 
-# Con los datos analizados se observa que el nuevo menú tiene una gran aceptación por los comensales. 
+### Con los datos analizados se observa que el nuevo menú tiene una gran aceptación por los comensales. 
