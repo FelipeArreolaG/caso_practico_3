@@ -22,7 +22,7 @@ Los mayores ingresos separados por país de origen a pesar de la popularidad en 
 ![Captura de pantalla (49)](https://github.com/user-attachments/assets/adf4715e-ddc4-4b20-a845-02f50660333c)
 
 
-Empecé a separar las vendar por mes:
+Empecé a separar las ventas por mes:
 
 ![Captura de pantalla (50)](https://github.com/user-attachments/assets/cc682a55-9aeb-4a06-a048-e674209413ee)
 
